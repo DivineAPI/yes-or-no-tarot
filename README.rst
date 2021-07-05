@@ -219,7 +219,7 @@ Credits
 
 "DivineAPI" was created by `Azhar <https://azhar-spiderdev.github.io/portfolio>`_
 
-Source of horoscope updates - http://divineapi.com/horoscope-api/
+Source of updates - https://divineapi.com/yes-no-tarot-api
 
 Please feel free to use and adapt this awesome API.
 
